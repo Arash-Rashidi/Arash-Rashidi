@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arash-Rashidi
 - 👀 I’m interested in Image and signal Processing and AI
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Image and signal processing projects using Matlab or OpenCV.
+- 🌱 I’m currently learning Advanced JS, TypeScript.
+- 💞️ I’m looking to collaborate on Image and signal processing projects using Matlab or OpenCV, JS.
 - 📫 How to reach me ...
 
 <!---
